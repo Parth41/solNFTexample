@@ -1,0 +1,10 @@
+{
+    "name": "MBB Testing NFT",
+    "symbol": "BB",
+    "description": "A test for our NFT example.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://static.looksnice.org/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/0xa7fcbcaef0a09b05ea0d59067131e88a12cfddde363f1dcb29ffd1e17c860370"
+}
